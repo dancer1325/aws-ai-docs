@@ -1,4 +1,4 @@
-https://aws.amazon.com/ai/
+✅ https://aws.amazon.com/ai/
 https://aws.amazon.com/ai/agentic-ai/
 https://aws.amazon.com/ai/aileague/
 https://aws.amazon.com/ai/generative-ai/competency-partner-highlights/
@@ -20,13 +20,13 @@ https://aws.amazon.com/ai/generative-ai/customers/ninjatech-ai/
 https://aws.amazon.com/ai/generative-ai/customers/pga-tour/
 https://aws.amazon.com/ai/generative-ai/customers/smartsheet/
 https://aws.amazon.com/ai/generative-ai/data/
-https://aws.amazon.com/ai/generative-ai/
+✅https://aws.amazon.com/ai/generative-ai/
 https://aws.amazon.com/ai/generative-ai/innovation-center/
 https://aws.amazon.com/ai/generative-ai/partners/
 https://aws.amazon.com/ai/generative-ai/partners/resources/
 https://aws.amazon.com/ai/security/
 https://aws.amazon.com/ai/security/generative-ai-scoping-matrix/
-https://aws.amazon.com/ai/generative-ai/services/
+✅https://aws.amazon.com/ai/generative-ai/services/
 https://aws.amazon.com/ai/generative-ai/use-cases/agent-assist/build-agent-assist/
 https://aws.amazon.com/ai/generative-ai/use-cases/agent-assist/
 https://aws.amazon.com/ai/generative-ai/use-cases/chatbots-and-virtual-assistants/
